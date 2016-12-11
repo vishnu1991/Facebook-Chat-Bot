@@ -5,7 +5,7 @@
  * Date: 24/04/16
  * Time: 3:26 PM
  */
-$access_token = "EAAH5qCyWCdcBAP0ddTZBNbVRdmqd43TZCnBJGFEwRZAmO76hlrXfWmVzBXO5xEsochEnlrQ88Tkrwm2B63KzXctLxXQ8RU6KKM9sWEFsGZAaBzmmMUoqVjfir1n5ufXgW8btvZAL41bNJ5S0IceHKUCioOLTqCLZCZCOOMlNz5fRAZDZD";
+$access_token = "EAADSm200ubUBALSfzPPTkI3ldlqtLz1TinhATvZBzzT0v78auMx2WU3lQXcNNytH1yoZAiATtYbdiZCUZBZA6plfBBDVGjDsXRPNXlgnLlfaTZCH0G18TvVyWxJti13laxMZCOzEGZB70z0R2aw33NeSjHIalUmOyB9QgHZBTtSqyTcGZCy5LKvYda";
 $verify_token = "fb_time_bot";
 $hub_verify_token = null;
 
